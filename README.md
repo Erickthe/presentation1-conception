@@ -15,4 +15,8 @@ En réalité virtuelle (VR), la perception de la réalité par l'utilisateur rep
 
 
 
-## 
+## Concept de projet
+
+J'ai une idée de faire un jeu interactif oû le joueur doit tirer des cibles comme dans un jeu de tir d'arcade mais en réalitée augmentée pour créer une expérience multimédia engagante et amusante.
+
+![alt text](https://www.homeleisuredirect.com/Assets/HLD/User/37241-Cat05-ShootingArcades.jpg)
