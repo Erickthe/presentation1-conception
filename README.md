@@ -31,4 +31,7 @@ Illustrator
 
 After Effects
 
+## Défi
+Le plus grand défi sera d'adapter le jeu à l'espace qu'il utilisera et aussi de faire en sorte que le jeu soit fluide.
+
 
