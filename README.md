@@ -23,4 +23,12 @@ Ce projet serait créé avec le logiciel unity et utiliserait la fonctionalité 
 
 Unity
 
+VcV Rack
+
 Tablette Android
+
+Illustrator
+
+After Effects
+
+
