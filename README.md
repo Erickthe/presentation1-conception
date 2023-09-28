@@ -20,7 +20,7 @@ La personne doit prendre la tablette android et commencer le jeu. Elle devra ens
 
 ## Inspiration artistique
 
-<img src="https://github.com/Erickthe/presentation1-conception/blob/main/img/lowpoly.webp">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-57e42f32824de6fb6d3fa7c2df7ea223.jpg?resize=1&w=1920">
 
 Le style artistique que j'utiliserais serait du low poly
 
