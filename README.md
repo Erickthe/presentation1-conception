@@ -13,6 +13,11 @@ La Ar (réalité augmentée) est une technologie créé pour essentiellement com
 En réalité virtuelle (VR), la perception de la réalité par l'utilisateur repose entièrement sur des informations virtuelles. La réalité augmentée (AR) fournit aux utilisateurs des informations supplémentaires générées par ordinateur au sein des données collectées dans la vie réelle pour améliorer leur perception de la réalité. 
 
 
+## Thème
+Le thème que j'ai choisi serait celui de l'amusement
+
+## Espace
+
 ## Concept de projet
 
 J'aimerais faire un jeu interactif où l'on peut interagir avec des objets qui raconte une histoire.
@@ -25,7 +30,7 @@ La personne doit prendre la tablette android et commencer le jeu. Elle devra ens
 
 ## Inspiration artistique
 
-![image](https://github.com/Erickthe/presentation1-conception/blob/main/img/Best-Free-Low-Poly-Games.webp)
+[<img src="">]
 
 Le style artistique que j'utiliserais serait du low poly
 
