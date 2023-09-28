@@ -20,7 +20,7 @@ La personne doit prendre la tablette android et commencer le jeu. Elle devra ens
 
 ## Inspiration artistique
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49f5888b-67d9-4fa7-a151-f333937e12e2/dby3mr8-236db36e-f17f-49e6-95c9-f49961ab601e.jpg/v1/fill/w_1316,h_607,q_70,strp/low_poly_game_art_with_blender_by_jayanam_dby3mr8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjcyIiwicGF0aCI6IlwvZlwvNDlmNTg4OGItNjdkOS00ZmE3LWExNTEtZjMzMzkzN2UxMmUyXC9kYnkzbXI4LTIzNmRiMzZlLWYxN2YtNDllNi05NWM5LWY0OTk2MWFiNjAxZS5qcGciLCJ3aWR0aCI6Ijw9MTQ1NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.m5PkS5HnY6nFT0UF9YkAZjbjFskjPP29kZBxXoS3Mkw">
+[Low Poly](https://www.deviantart.com/jayanam/art/Low-poly-game-art-with-Blender-722404340)
 
 Le style artistique que j'utiliserais serait du low poly
 
