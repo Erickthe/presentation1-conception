@@ -17,16 +17,17 @@ En réalité virtuelle (VR), la perception de la réalité par l'utilisateur rep
 
 J'aimerais faire un jeu interactif où l'on peut interagir avec des objets qui raconte une histoire.
 
-Ce projet serait créé avec le logiciel unity et utiliserait la fonctionalité Ar d'une tablette. Le joueur aurait à interagir avec des objets différents en utilisant la tablette, ils mènent tous à des résultats différents qui vont impacter la fin de l'expérience. C'est inspiré des jeux à choix multiples comme TellTale's The Walking Dead.
+Ce projet serait créé avec le logiciel unity et utiliserait la fonctionalité Ar d'une tablette. Le joueur aurait à interagir avec des objets différents en utilisant la tablette et aussi des choix qui impacteront l'histoire. C'est inspiré des jeux à choix multiples comme TellTale's The Walking Dead, Detroit Become Human, etc.
 
 ## Idéation
-1. Créer les médias Ar et les sons à l'aide de des logiciels nécessaires.
-2. Créer un projet unity et ajouter les médias et sons.
-3. Développer le projet
+La personne doit prendre la tablette android et commencer le jeu. Elle devra ensuite choisir entre deux options pour continuer l'histoire. Après cela, la personne devra jouer à un mini-jeu pour accumuler le plus de points possibles. Ces points détermineront la côte de victoire comme dans plusieurs jeux-vidéos, c'est-à-dire S, A, B, C, D, etc. Il y aura 5 mini-jeux et après ces jeux et les décisions il y aurait soit la bonne fin ou la mauvaise fin dépendamment des choix effectués.
+
 
 ## Inspiration artistique
 
 ![alt text](https://github.com/Erickthe/presentation1-conception/blob/main/img/Best-Free-Low-Poly-Games.webp)
+
+Le style artistique que j'utiliserais serait du low poly
 
 ## Logiciels et technologies
 
