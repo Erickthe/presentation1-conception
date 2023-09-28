@@ -1,7 +1,7 @@
 # Présentation 1: réalité augmentée
 
 
-## La réalité augmentée
+## La réalité augmentée 
 
 La Ar (réalité augmentée) est une technologie créé pour essentiellement combiner la vue réelle d'une personne et des médias générés par un ordinateur pour donner une expérience interactive pour la personne. 
 
