@@ -18,7 +18,7 @@ Ce projet serait créé avec le logiciel unity et utiliserait la fonctionalité 
 La personne doit prendre la tablette android et commencer le jeu. Elle devra ensuite choisir entre deux options pour continuer l'histoire. Après cela, la personne devra jouer à un mini-jeu pour accumuler le plus de points possibles en trouvant tous les objets. Ces points détermineront la côte de victoire comme dans plusieurs jeux-vidéos, c'est-à-dire S, A, B, C, D, etc. Il y aura 5 mini-jeux et après ces jeux et les décisions il y aurait soit la bonne fin ou la mauvaise fin dépendamment des choix effectués.
 
 
-## Inspiration artistique
+## Inspiration artistique 
 
 [Low Poly](https://www.deviantart.com/jayanam/art/Low-poly-game-art-with-Blender-722404340)
 
