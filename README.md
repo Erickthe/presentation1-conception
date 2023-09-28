@@ -20,7 +20,7 @@ La personne doit prendre la tablette android et commencer le jeu. Elle devra ens
 
 ## Inspiration artistique
 
-<img src="https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-57e42f32824de6fb6d3fa7c2df7ea223.jpg?resize=1&w=1920">
+<img src="https://openxcell.com/wp-content/uploads/2020/02/paper-art-1.jpg">
 
 Le style artistique que j'utiliserais serait du low poly
 
