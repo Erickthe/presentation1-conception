@@ -25,7 +25,7 @@ La personne doit prendre la tablette android et commencer le jeu. Elle devra ens
 
 ## Inspiration artistique
 
-![alt text](https://github.com/Erickthe/presentation1-conception/blob/main/img/Best-Free-Low-Poly-Games.webp)
+![image](https://github.com/Erickthe/presentation1-conception/blob/main/img/Best-Free-Low-Poly-Games.webp)
 
 Le style artistique que j'utiliserais serait du low poly
 
